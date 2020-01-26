@@ -1,3 +1,4 @@
 新規追加したファイル
 池辺
 ・git status
+・git diff
